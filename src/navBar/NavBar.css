@@ -1,0 +1,16 @@
+
+
+
+
+*{
+    box-sizing: border-box;
+    border: 0%;
+    padding: 0%;
+    }
+    .styleBtn:hover{
+        color: white !important ;
+        background-color:"black";
+    
+        
+    }
+
